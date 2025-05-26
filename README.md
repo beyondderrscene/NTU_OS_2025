@@ -1,4 +1,4 @@
-# Kudos
+# Hi!
 
 Documentation of my HW for NTU's OS course for spring 2025. Taught by prof. Fang-Jing Wu, this course has 4 assignments.
 
