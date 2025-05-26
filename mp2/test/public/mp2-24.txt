@@ -1,0 +1,7 @@
+echo NotOk > ok
+checkstr ok NotOk
+echo Ok | gah . 2 | oak end > ok
+checkstr ok Ok
+echo NotOk | gah . 1 | oak end > ok
+checkstr ok Ok
+ls

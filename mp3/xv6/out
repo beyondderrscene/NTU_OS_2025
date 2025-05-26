@@ -1,0 +1,16 @@
+== Test task1 - P_RR == task1 - P_RR: FAIL (16.0s) 
+    Output does not match expected output
+    QEMU output saved to xv6.out.task1
+== Test task2 - P_RR == task2 - P_RR: FAIL (4.8s) 
+    Output does not match expected output
+    QEMU output saved to xv6.out.task2
+== Test task3 - P_RR == task3 - P_RR: FAIL (4.5s) 
+    Output does not match expected output
+    QEMU output saved to xv6.out.task3
+== Test task4 - P_RR == task4 - P_RR: FAIL (3.7s) 
+    Output does not match expected output
+    QEMU output saved to xv6.out.task4
+== Test task5 - P_RR == task5 - P_RR: FAIL (4.2s) 
+    Output does not match expected output
+    QEMU output saved to xv6.out.task5
+Score: 0/10

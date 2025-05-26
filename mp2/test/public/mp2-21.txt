@@ -1,0 +1,1 @@
+ls | tee f1 > ok
